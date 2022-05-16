@@ -1,5 +1,5 @@
 suppressMessages(library(httr))
-suppressMessages(library(rvest))]
+suppressMessages(library(rvest))
 
 ticker <- c("TAEE11","ITSA4")
 
